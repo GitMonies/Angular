@@ -1,5 +1,0 @@
-# Angular
-
-Test Commit
-
-Something
